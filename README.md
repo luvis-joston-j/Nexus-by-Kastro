@@ -19,9 +19,9 @@ Welcome to **Nexus-by-Kastro**, a repository that offers FREE Nexus course conte
 
 ## 🤝 Connect with Me
 
-- **LinkedIn**: [Kastro Kiran](https://www.linkedin.com/in/kastro-kiran/)
-- **DevOps Technical Discussions**: Join the conversation in our WhatsApp group!  
-  [Join WhatsApp Group](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kastro-kiran/)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm)
 
 ---
 
@@ -32,4 +32,3 @@ Feel free to explore the repository and reach out if you have any questions or s
 ### ⭐ Show Your Support
 
 If you found this content helpful, don't forget to star this repo and subscribe to the YouTube channel for more content.
-
