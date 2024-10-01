@@ -2,8 +2,6 @@
 
 ---
 
-![YouTube Banner](https://i.ytimg.com/vi/Uq0vIVRbBTI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAou30td47SUOjlC7BAveUyK-di5Q)
-
 Welcome all! This repository consists of **Nexus FREE Course Content** to help you understand the essentials of Nexus.
 
 ---
