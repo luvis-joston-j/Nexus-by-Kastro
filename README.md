@@ -1,34 +1,38 @@
-# Nexus-by-Kastro
-
-Welcome to **Nexus-by-Kastro**, a repository that offers FREE Nexus course content, designed to guide you through the essentials of Nexus and related tools.
+# Nexus - By Kastro
 
 ---
 
-## 📂 Nexus Repository
+![YouTube Banner](https://i.ytimg.com/vi/Uq0vIVRbBTI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAou30td47SUOjlC7BAveUyK-di5Q)
 
-🔗 [Nexus Demo Repository](https://github.com/KastroVKiran/Nexus-Demo.git)
+Welcome all! This repository consists of **Nexus FREE Course Content** to help you understand the essentials of Nexus.
 
 ---
 
-## 🎥 YouTube Course Links
+## 🚀 Course Links
 
-- **Nexus Course Video**: *(Link will be updated soon)*
-- **Docker - Basics to Brilliance Course**: [Watch the Course](https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh)
+- **Nexus Repo Link**: [Nexus Repository](https://github.com/KastroVKiran/Nexus-Demo.git)
+- **Docker - Basics to Brilliance Course**: [Watch the Full Course](https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh)
 
 ---
 
 ## 🤝 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kastro-kiran/)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm) - Join the DevOps technical discussions!
 
 ---
 
-Feel free to explore the repository and reach out if you have any questions or suggestions!
+## 💬 Share Your Thoughts
+
+Feel free to share your thoughts and suggestions. Stay tuned for more content!
 
 ---
 
-### ⭐ Show Your Support
+### 🎉 Happy Learning!
 
-If you found this content helpful, don't forget to star this repo and subscribe to the YouTube channel for more content.
+---
+
+### 🙋‍♂️ About Me
+
+<img src="https://media.licdn.com/dms/image/v2/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718971147172?e=1733356800&v=beta&t=bz-SXs7FHwIDqQ9xlPibErrGvpHDdAjMJEr9WqHsi9A" alt="Kastro Profile Image" width="150" height="150" style="border-radius:50%;">  
+**KASTRO**
