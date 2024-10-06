@@ -9,7 +9,7 @@ Welcome all! This repository consists of **Nexus FREE Course Content** to help y
 ## 🚀 Course Links
 
 - **Nexus Repo Link**: [Nexus Repository](https://github.com/KastroVKiran/Nexus-Demo.git)
-- **Nexus YouTube Video Link**: *Updated Very Soon*
+- **Nexus YouTube Video Link**: [*Click Here*](https://youtu.be/opJAfDOCZuI)
 - **Docker - Basics to Brilliance Course**: [Watch the Full Course](https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh)
 
 ---
