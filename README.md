@@ -1,4 +1,4 @@
-# Nexus - By Kastro
+# Nexus by Kastro
 
 ---
 
