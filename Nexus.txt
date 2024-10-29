@@ -112,7 +112,7 @@ pipeline {
     stages {
         stage('Git Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/KastroVKiran/Nexus-Demo.git'
+                git branch: 'main', url: 'https://github.com/luvis-joston-j/Nexus-Demo.git'
             }
         }
         stage('Compile') {
